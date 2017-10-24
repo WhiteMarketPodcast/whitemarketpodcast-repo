@@ -3,11 +3,12 @@
 Welcome to [White Market Podcast](https://www.whitemarketpodcast.eu/) repo. 🤗
 
 White Market Podcast is an open show dedicated to free music and free culture. 📻
-This repo is under construction. Check back later for more info.
+
+This repo is under construction. 🚧 🏗️ Check back later for more info.
 
 ## How to get involved
 
-Check out our [CONTRIBUTING.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CONTRIBUTING.md) file and get started. Make sure you read our [CODE_OF_CONDUCT.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CODE_OF_CONDUCT.md) before getting started. If you submit any work here, we assume you read and accepted those rules. 
+Check out our [CONTRIBUTING.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CONTRIBUTING.md) file and get started. Make sure you read our [CODE_OF_CONDUCT.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CODE_OF_CONDUCT.md). If you submit any work here, we assume you read and accepted those rules. 
 
 ## Licenses
 
