@@ -1,0 +1,14 @@
+Making a podcast is harder than it looks and easier than it seems. While it doesn't require as much hands as a video-based medium like YouTube, it still demands specific knowledge (like sound editing and scriptwriting), equipment (like a decent microphone) and, of course, software.
+
+One of the big changes of this WMP's season is how I have only been using free and open source software to create each episode. I had a first go at it a few years ago, when I started doing the show in English. It went okay. However, by the time I got back to an actual radio station (Spark FM), I went back to using Windows and Adobe Audition because that was what we worked with there. Ever since I started the show, though, I had this need of going FOSS again. I am not going to lie, the transition hasn't been totally smooth. Just like any other thing in life, changing processes and rituals that you are well accustomed to is always a challenge. However, it has been way less daunting than what I expected.
+
+Here's my favourite free and open source software to build an episode on White Market Podcast.
+
+[thst_tabs] [thst_tab title="Audio Editing"]
+<h3>Audacity</h3>
+Audacity is a free and open source audio editor available for Mac, Windows and Linux-based systems. It's very simple, but comes packed with most of the basic features you might need when editing audio, including tools for trimming, equalizer, leveller, noise reduction, and even some filters. Despite its simplicity, Audacity is fairly powerful. You can use it to easily convert your audio files into almost any audio format you can think of (just don't forget the <a href="http://lame.sourceforge.net/" target="_blank" rel="noopener">mp3 codec</a>)
+
+<span style="color: #008000;"><strong>Great for:</strong></span> converting file formats and adjusting audio frequencies; batch processes.
+<span style="color: #ff6600;"><strong>Not very good for:</strong></span> multitrack editing.
+
+[/thst_tab] [/thst_tabs]
