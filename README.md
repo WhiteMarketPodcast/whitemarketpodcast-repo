@@ -8,7 +8,9 @@ This repo is under construction. 🚧 🏗️ Check back later for more info.
 
 ## How to get involved
 
-Check out our [CONTRIBUTING.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CONTRIBUTING.md) file and get started. Make sure you read our [CODE_OF_CONDUCT.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CODE_OF_CONDUCT.md). If you submit any work here, we assume you read and accepted those rules. 
+If you want to get started quickly, check out our [open issues](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/issues). Feel free to comment if you have any suggestions or if something is unclear.
+
+Make sure you also check out our [CONTRIBUTING.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CONTRIBUTING.md) file and get started. Make sure you read our [CODE_OF_CONDUCT.md](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CODE_OF_CONDUCT.md). If you submit any work here, we assume you read and accepted those rules. 
 
 ## Licenses
 

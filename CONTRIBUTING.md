@@ -34,7 +34,9 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 This will be updated in the future with information regarding workflows. Pay attention to the folder struture. Documentation about these (and other potentially related) topics should follow soon, but it might take a bit. Please be patient and check back regularly.
 
 ### Blog posts
-[Blog posts](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/tree/master/blog%20posts) should be written in HTML. If you don't know HTML and still would like to submit a text for the blog, please write it in markdown form. You can find about [how to maste markdown](https://guides.github.com/features/mastering-markdown/). To write in this form, you can use any simple text editor, but we recommend [Atom](https://guides.github.com/features/mastering-markdown/).
+[Blog posts](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/tree/master/blog%20posts) should be formatted using HTML. Here's where you can find [HTML formatting tags](https://www.w3schools.com/html/html_formatting.asp).
+
+If you don't know HTML, you can use markdown form instead. You can find about [how to maste markdown](https://guides.github.com/features/mastering-markdown/). To write in this form, you can use any simple text editor, but we recommend [Atom](https://guides.github.com/features/mastering-markdown/).
 
 ### Forks and code
  
