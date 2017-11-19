@@ -21,7 +21,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 ## What we're working on
 
 ### Content side
-- creating/completing/reviewing new blog posts 
+- creating/completing/reviewing new blog posts
 - creating new posts for social media
 - creating a style guide for content
 
@@ -34,12 +34,12 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 This will be updated in the future with information regarding workflows. Pay attention to the folder struture. Documentation about these (and other potentially related) topics should follow soon, but it might take a bit. Please be patient and check back regularly.
 
 ### Blog posts
-[Blog posts](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/tree/master/blog%20posts) should be formatted using HTML. Here's where you can find [HTML formatting tags](https://www.w3schools.com/html/html_formatting.asp).
+[Blog posts](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/tree/master/blog%20posts) can be submitted as *.txt, *.md  *.html files. Just start writing and make your pull request. If your post isn't finished yet, make sure it's clear in the file name - you can submit drafts and proposals.
 
-If you don't know HTML, you can use markdown form instead. You can find about [how to maste markdown](https://guides.github.com/features/mastering-markdown/). To write in this form, you can use any simple text editor, but we recommend [Atom](https://guides.github.com/features/mastering-markdown/).
+You can find about [how to maste markdown](https://guides.github.com/features/mastering-markdown/). To write in this form, you can use any simple text editor, but we recommend [Atom](https://guides.github.com/features/mastering-markdown/).
 
 ### Forks and code
- 
+
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 > 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
@@ -48,7 +48,7 @@ If you don't know HTML, you can use markdown form instead. You can find about [h
 
 ## How to report bugs
 
-Stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of the project. 
+Stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of the project.
 
 Please submit an issue to report any bugs.
 
