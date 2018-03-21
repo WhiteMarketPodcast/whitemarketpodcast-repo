@@ -22,8 +22,6 @@ The work available in this repo is released under a **[Creative Commons Attribut
 
 *This does not include external content linked on the [podcast index](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/episodes/podcast_index.md), for instance. Older episodes were released under different Creative Commons licenses and retain them.*
 
-For the event of code being released in this repo, those files are made available under a **[Mozilla Public License Version 2](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/LICENSE_CODE.md)**. Both licenses are open source and similar in ideology and permissions, but we encourage you to read the appropriate files before submitting work here.
-
 
 ### Find out more or get in touch:
 
