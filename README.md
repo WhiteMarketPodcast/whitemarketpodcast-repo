@@ -18,7 +18,7 @@ This repo is under construction. 🚧 🏗️ Keep stopping by for updated info.
 
 ## Licenses
 
-The work available in this repo is released under a **[Creative Commons Attribution Share-Alike International Version 4.0](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/LICENSE_CONTENT.md)** license. If you submit work here, it will be made available under the same terms.
+The work available in this repo is released under a **[Creative Commons Attribution Share-Alike International Version 4.0](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/LICENSE.md)** license. If you submit work here, it will be made available under the same terms.
 
 *This does not include external content linked on the [podcast index](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/episodes/podcast_index.md), for instance. Older episodes were released under different Creative Commons licenses and retain them.*
 
