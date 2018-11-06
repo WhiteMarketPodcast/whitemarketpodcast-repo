@@ -17,7 +17,7 @@ As the service prepares to shut down, below you can find archive links to the co
 ## WMP Curator Playlist
 
 Album | Plays | Downloads | Licence | Archive Links
------------- | -------------
+------------ | ------------- | ------------ | ------------- |------------
 J-K - Contos de Espadas | 21667 | 2016 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106123457/http://freemusicarchive.org/music/J-K/Contos_de_Espadas) - Archive.org
 Monster Jinx - Monster Jinx Beat Camp #01 | 36564 | 10172 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106123627/http://freemusicarchive.org/music/Monster_Jinx/Monster_Jinx_Beat_Camp_01) - Archive.org
 Noiserv - 56010-92 | 2142 | 730 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> | [WMP](https://web.archive.org/web/20181106124016/http://freemusicarchive.org/music/Noiserv/56010-92) - Archive.org
