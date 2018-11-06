@@ -2,9 +2,11 @@
 
 From 2012 until its closure, White Market Podcast was an official curator of the [Free Music Archive](https://en.wikipedia.org/wiki/Free_Music_Archive). This meant that White Market Podcast could upload Creative Commons-licensed tracks to the platform, making them available to the world with extra exposure.
 
-As the service prepares to shut down, below you can find archive links to the collection built over years. _Wayback Machine links generated and plays/download count collected on November 6th 2018_
+As the service prepares to shut down, below you can find archive links to the collection built over years.
 
-** Download links to be updated when the collection is all migrated to Archive.org.**
+_Wayback Machine links generated and plays/download count collected on November 6th 2018_
+
+**Download links to be updated when the collection is all migrated to Archive.org.**
 
 ## Stats (November 6th 2018)
 
@@ -59,7 +61,7 @@ Prémio Mistério - EP 2011 | 1366 | 9813 | <a rel="license" href="http://creati
 Birds Are Indie - Life Is Long | 5946 | 7679 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106133549/http://freemusicarchive.org/music/Birds_Are_Indie/Life_Is_Long) - Archive.org
 The Astroboy - EP01 | 736 | 8626 | <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106133723/http://freemusicarchive.org/music/The_Astroboy/EP01) - Archive.org
 The Astroboy - A Derrota da Engrenagem | 443 | 6169 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106133828/https://freemusicarchive.org/music/The_Astroboy/A_Derrota_da_Engrenagem/) - Archive.org
-Clorofila Azul - Revisitado (sem voz) | 1726 | 7744 |  | [WBM](https://web.archive.org/web/20181106134023/http://freemusicarchive.org/music/Clorofila_Azul/Revisitado_sem_Voz) - Archive.org
+Clorofila Azul - Revisitado (sem voz) | 1726 | 7744 |  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106134023/http://freemusicarchive.org/music/Clorofila_Azul/Revisitado_sem_Voz) - Archive.org
 Luís Antero - Concerto Para Olhos Vendados | 103 | 1453 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106134156/http://freemusicarchive.org/music/Lus_Antero/Concerto_Para_Olhos_Vendados) - Archive.org
 J-K - Complexo de Inferioridade | 3589 | 29830 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106134510/http://freemusicarchive.org/music/J-K/Complexo_de_Inferioridade) - Archive.org
 J-K - Armadura Brilhante | 1671 | 11836 | <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> | [WBM](https://web.archive.org/web/20181106134552/http://freemusicarchive.org/music/J-K/Armadura_Brilhante) - Archive.org
