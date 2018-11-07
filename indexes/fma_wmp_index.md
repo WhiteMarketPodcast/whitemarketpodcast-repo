@@ -11,7 +11,7 @@ _Wayback Machine links generated and plays/download count collected on November 
 ## Stats (November 6th 2018)
 
 - 454 songs
-- 60 records
+- 48 records
 - 1606455 plays
 - 812129 downloads
 
