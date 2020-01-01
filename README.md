@@ -12,7 +12,7 @@ This repo is under construction. 🚧 🏗️ Keep stopping by for updated info.
 1. Make sure you read our **[Code of Conduct](https://github.com/WhiteMarketPodcast/whitemarketpodcast-repo/blob/master/CODE_OF_CONDUCT.md)**. If you submit any work here, we assume you read and accepted those rules.
 
 
-#### Are you a web developer? We're building our [new website in a different repo](https://github.com/WhiteMarketPodcast/WMP-website/).
+#### Are you a web developer? We're building our [new website in a different repo](https://github.com/WhiteMarketPodcast/wmp-site/).
 
 
 
